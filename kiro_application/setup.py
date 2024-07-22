@@ -22,6 +22,7 @@ setup(
         'console_scripts': [
             'move_limo=kiro_application.move_limo:main',
             'stop=kiro_application.stop:main',
+            'lane_detect=kiro_application.lane_detect:main',
         ],
     },
 )
