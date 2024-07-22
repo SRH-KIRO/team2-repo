@@ -1,0 +1,42 @@
+running egg_info
+creating ../build/kiro_application/kiro_application.egg-info
+writing ../build/kiro_application/kiro_application.egg-info/PKG-INFO
+writing dependency_links to ../build/kiro_application/kiro_application.egg-info/dependency_links.txt
+writing entry points to ../build/kiro_application/kiro_application.egg-info/entry_points.txt
+writing requirements to ../build/kiro_application/kiro_application.egg-info/requires.txt
+writing top-level names to ../build/kiro_application/kiro_application.egg-info/top_level.txt
+writing manifest file '../build/kiro_application/kiro_application.egg-info/SOURCES.txt'
+reading manifest file '../build/kiro_application/kiro_application.egg-info/SOURCES.txt'
+writing manifest file '../build/kiro_application/kiro_application.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/wego/kiro_ws/src/build/kiro_application/build
+creating /home/wego/kiro_ws/src/build/kiro_application/build/lib
+creating /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application
+copying kiro_application/move_limo.py -> /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application
+copying kiro_application/stop.py -> /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application
+copying kiro_application/__init__.py -> /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application
+copying kiro_application/turn_absolute.py -> /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application
+running install
+running install_lib
+creating /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application
+copying /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application/move_limo.py -> /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application
+copying /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application/stop.py -> /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application
+copying /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application/__init__.py -> /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application
+copying /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application/turn_absolute.py -> /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application
+byte-compiling /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application/move_limo.py to move_limo.cpython-38.pyc
+byte-compiling /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application/stop.py to stop.cpython-38.pyc
+byte-compiling /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application/turn_absolute.py to turn_absolute.cpython-38.pyc
+running install_data
+creating /home/wego/kiro_ws/src/install/kiro_application/share/ament_index
+creating /home/wego/kiro_ws/src/install/kiro_application/share/ament_index/resource_index
+creating /home/wego/kiro_ws/src/install/kiro_application/share/ament_index/resource_index/packages
+copying resource/kiro_application -> /home/wego/kiro_ws/src/install/kiro_application/share/ament_index/resource_index/packages
+copying package.xml -> /home/wego/kiro_ws/src/install/kiro_application/share/kiro_application
+running install_egg_info
+Copying ../build/kiro_application/kiro_application.egg-info to /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application-0.0.0-py3.8.egg-info
+running install_scripts
+Installing move_limo script to /home/wego/kiro_ws/src/install/kiro_application/lib/kiro_application
+Installing stop script to /home/wego/kiro_ws/src/install/kiro_application/lib/kiro_application
+writing list of installed files to '/home/wego/kiro_ws/src/build/kiro_application/install.log'

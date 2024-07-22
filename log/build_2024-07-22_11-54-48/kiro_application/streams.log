@@ -1,0 +1,25 @@
+[2.313s] Invoking command in '/home/wego/kiro_ws/src/kiro_application': PYTHONPATH=/home/wego/kiro_ws/src/build/kiro_application/prefix_override:/home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/kiro_application build --build-base /home/wego/kiro_ws/src/build/kiro_application/build install --record /home/wego/kiro_ws/src/build/kiro_application/install.log --single-version-externally-managed install_data
+[2.952s] running egg_info
+[2.953s] writing ../build/kiro_application/kiro_application.egg-info/PKG-INFO
+[2.954s] writing dependency_links to ../build/kiro_application/kiro_application.egg-info/dependency_links.txt
+[2.955s] writing entry points to ../build/kiro_application/kiro_application.egg-info/entry_points.txt
+[2.955s] writing requirements to ../build/kiro_application/kiro_application.egg-info/requires.txt
+[2.955s] writing top-level names to ../build/kiro_application/kiro_application.egg-info/top_level.txt
+[3.028s] reading manifest file '../build/kiro_application/kiro_application.egg-info/SOURCES.txt'
+[3.029s] writing manifest file '../build/kiro_application/kiro_application.egg-info/SOURCES.txt'
+[3.030s] running build
+[3.030s] running build_py
+[3.030s] copying kiro_application/stop.py -> /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application
+[3.031s] running install
+[3.034s] running install_lib
+[3.038s] copying /home/wego/kiro_ws/src/build/kiro_application/build/lib/kiro_application/stop.py -> /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application
+[3.041s] byte-compiling /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application/stop.py to stop.cpython-38.pyc
+[3.046s] running install_data
+[3.046s] running install_egg_info
+[3.052s] removing '/home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application-0.0.0-py3.8.egg-info' (and everything under it)
+[3.053s] Copying ../build/kiro_application/kiro_application.egg-info to /home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages/kiro_application-0.0.0-py3.8.egg-info
+[3.055s] running install_scripts
+[3.103s] Installing move_limo script to /home/wego/kiro_ws/src/install/kiro_application/lib/kiro_application
+[3.103s] Installing stop script to /home/wego/kiro_ws/src/install/kiro_application/lib/kiro_application
+[3.104s] writing list of installed files to '/home/wego/kiro_ws/src/build/kiro_application/install.log'
+[3.214s] Invoked command in '/home/wego/kiro_ws/src/kiro_application' returned '0': PYTHONPATH=/home/wego/kiro_ws/src/build/kiro_application/prefix_override:/home/wego/kiro_ws/src/install/kiro_application/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/kiro_application build --build-base /home/wego/kiro_ws/src/build/kiro_application/build install --record /home/wego/kiro_ws/src/build/kiro_application/install.log --single-version-externally-managed install_data
